@@ -1,0 +1,14 @@
+#keywords{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 200px;
+    
+}
+button{
+    padding: 40px;
+    border: 2px crimson dotted;
+    border-radius: 20px;
+    background-color: crimson;
+    color :crimson;
+}
